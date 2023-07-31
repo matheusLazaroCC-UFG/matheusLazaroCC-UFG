@@ -14,7 +14,7 @@ Sou <a href="#">Matheus Lázaro</a>, estudante e entusiasta de tecnologia. Este 
 </p>
 
 <!-- Seção de Projetos -->
-<h1 align="center">Projetos</h1>
+<h1 align="center">Principais projetos</h1>
 
 <!-- Projeto 1 -->
 <h3>CenterQuiz - Gerenciamento de Questionários</h3>
