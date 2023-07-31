@@ -23,7 +23,7 @@ Sou <a href="#">Matheus Lázaro</a>, estudante e entusiasta de tecnologia. Este 
 </p>
 
 <p align="center">
-  <img style="width:200px;" src="https://docs.google.com/uc?id=1n5MXEVAsesx5W4zbO1hgXd-t4iVb4MDh" alt="Imagem do Projeto 1" width="400">
+  <img style="width:200px;" src="https://raw.githubusercontent.com/matheusLazaroCC-UFG/matheusLazaroCC-UFG/main/default_transparent_1000x1000%20(1).png" alt="Imagem do Projeto 1" width="400">
 </p>
 
 <ul>
@@ -49,6 +49,27 @@ Sou <a href="#">Matheus Lázaro</a>, estudante e entusiasta de tecnologia. Este 
     <strong>GitHub:</strong>
     <a href="https://github.com/V2P-NS3-NetworkSimulation/v2p-ns3-simulation">V2P with NS3 - Network Simulation</a>
   </li>
+</ul>
+
+
+<hr/>
+<!-- Projeto 6 -->
+<h3>Loja Virtual - PHP com o framework CodeIgniter</h3>
+<p>
+  Implementação funcional, extendível para produção, do curso "Criando uma loja virtual em PHP com Codeigniter c/ PagSeguro". 
+</p>
+<h4><b>Tecnologias: </b>PHP, Framework CodeIgniter, API PagSeguro, HTML, CSS, JavaScript...</h4>
+
+<p align="center">
+  <img style="width:200px;" src="https://raw.githubusercontent.com/matheusLazaroCC-UFG/matheusLazaroCC-UFG/main/Captura%20de%20tela%20de%202023-07-30%2023-12-37.png" alt="Imagem do Projeto 2" width="400">
+</p>
+
+<ul>
+  <li>
+    <strong>GitHub:</strong>
+    <a href="https://github.com/matheusLazaroCCUFG/lojaVirtualPHPCodeIgniter">Loja Virtual - PHP com o framework CodeIgniter</a>
+  </li>
+  
 </ul>
 
 <hr/>
@@ -126,26 +147,6 @@ Sou <a href="#">Matheus Lázaro</a>, estudante e entusiasta de tecnologia. Este 
 </ul>
 
 
-<hr/>
-<!-- Projeto 6 -->
-<h3>Loja Virtual - PHP com o framework CodeIgniter</h3>
-<p>
-  Implementação funcional, extendível para produção, do curso "Criando uma loja virtual em PHP com Codeigniter c/ PagSeguro". 
-</p>
-<h4><b>Tecnologias: </b>PHP, Framework CodeIgniter, API PagSeguro, HTML, CSS, JavaScript...</h4>
-
-<p align="center">
-  <img style="width:200px;" src="https://drive.google.com/uc?id=1q81TN0nru9w0bQWlRmc1E1_PnHAUQ0GJ
-" alt="Imagem do Projeto 2" width="400">
-</p>
-
-<ul>
-  <li>
-    <strong>GitHub:</strong>
-    <a href="https://github.com/matheusLazaroCCUFG/projetoSoftwareBasico-TradutorDeLinguagemSimplesParaAssembly">Tradutor de Linguagem Simples para Assembly</a>
-  </li>
-  
-</ul>
 
 
 
