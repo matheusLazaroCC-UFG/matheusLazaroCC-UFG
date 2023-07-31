@@ -65,6 +65,7 @@ Sou <a href="#">Matheus Lázaro</a>, estudante e entusiasta de tecnologia. Este 
 </p>
 
 <ul>
+  <h4>Repositório privado</h4>
   <li>
     <strong>GitHub:</strong>
     <a href="https://github.com/matheusLazaroCCUFG/lojaVirtualPHPCodeIgniter">Loja Virtual - PHP com o framework CodeIgniter</a>
