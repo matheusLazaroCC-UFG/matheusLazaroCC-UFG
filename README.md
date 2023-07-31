@@ -63,9 +63,9 @@ Sou <a href="#">Matheus Lázaro</a>, estudante e entusiasta de tecnologia. Este 
 <p align="center">
   <img style="width:200px;" src="https://raw.githubusercontent.com/matheusLazaroCC-UFG/matheusLazaroCC-UFG/main/Captura%20de%20tela%20de%202023-07-30%2023-12-37.png" alt="Imagem do Projeto 2" width="400">
 </p>
-
+<h4>Repositório privado</h4>
 <ul>
-  <h4>Repositório privado</h4>
+  
   <li>
     <strong>GitHub:</strong>
     <a href="https://github.com/matheusLazaroCCUFG/lojaVirtualPHPCodeIgniter">Loja Virtual - PHP com o framework CodeIgniter</a>
